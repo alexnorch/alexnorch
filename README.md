@@ -19,3 +19,5 @@
 - [Node.js, Express, MongoDB & More: The Complete Bootcamp 2022](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
 - [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full)
 - [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass)
+- [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/)
+- [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
